@@ -1,0 +1,41 @@
+
+
+<link href="css/style.css" rel="stylesheet"/>
+ 25. Text Decoration
+ css- text decoration dia underline,Italic,overline,bold, del,
+
+
+  <!-- 25. Text Decoration -->
+    <h1>This is a simple paragraph</h1>
+    <h2>This is a simple paragraph</h2>
+    <h3>This is a simple paragraph</h3>
+    <h4>This is a simple paragraph</h4>
+    <h5>This is a simple paragraph</h5>
+    <h6>This is a simple paragraph</h6>
+    <br><br><br><br>
+   
+    <p>This is a simple paragraph</p> 
+    <p1>This is a simple paragraph</p1> <br>
+    <p2>This is a simple paragraph</p2> <br>
+    <p3>This is a simple paragraph</p3> <br>
+    <p>This is a simple paragraph</p>
+
+
+<!-- 25. Text Decoration -->
+h1{
+    text text-decoration: none;
+}
+
+h2{
+    text text-decoration: underline;
+}
+
+h3{
+    text text-decoration: overline;
+}
+
+h4{
+    text text-decoration: line-through;
+}
+
+
